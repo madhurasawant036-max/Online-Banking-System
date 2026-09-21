@@ -1,0 +1,2 @@
+1001,Madhura,062003,saving,1000.0
+1002,Madhura,062003,saving,2000.0
